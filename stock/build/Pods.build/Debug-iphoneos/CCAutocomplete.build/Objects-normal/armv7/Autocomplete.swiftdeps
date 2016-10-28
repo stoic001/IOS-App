@@ -1,0 +1,241 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Autocomplete"
+provides-nominal:
+- "C14CCAutocomplete12Autocomplete"
+provides-member:
+- ["C14CCAutocomplete12Autocomplete", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "UIStoryboard"
+- "Autocomplete"
+- "UIViewController"
+- !private "StringLiteralType"
+- "AutocompleteDelegate"
+- !private "AutoCompleteViewController"
+- !private "NSBundle"
+depends-member:
+- !private ["Ps9AnyObject", "Autocomplete"]
+- !private ["Ps9AnyObject", "NSBundle"]
+- !private ["Ps9AnyObject", "UIStoryboard"]
+- !private ["Ps9AnyObject", "addSubview"]
+- !private ["Ps9AnyObject", "delegate"]
+- !private ["Ps9AnyObject", "didMoveToParentViewController"]
+- !private ["Ps9AnyObject", "didMoveToSuperview"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "instantiateViewControllerWithIdentifier"]
+- !private ["Ps9AnyObject", "view"]
+- !private ["Ps9AnyObject", "willMoveToParentViewController"]
+- !private ["Ps9AnyObject", "willMoveToSuperview"]
+- ["Ps9AnyObject", ""]
+- !private ["C14CCAutocomplete26AutoCompleteViewController", "delegate"]
+- !private ["C14CCAutocomplete26AutoCompleteViewController", "didMoveToParentViewController"]
+- !private ["C14CCAutocomplete26AutoCompleteViewController", "view"]
+- !private ["C14CCAutocomplete26AutoCompleteViewController", "willMoveToParentViewController"]
+- !private ["C14CCAutocomplete12Autocomplete", "AutoCompleteViewController"]
+- !private ["C14CCAutocomplete12Autocomplete", "Autocomplete"]
+- ["C14CCAutocomplete12Autocomplete", "AutocompleteDelegate"]
+- !private ["C14CCAutocomplete12Autocomplete", "NSBundle"]
+- !private ["C14CCAutocomplete12Autocomplete", "UIStoryboard"]
+- ["C14CCAutocomplete12Autocomplete", "UIViewController"]
+- ["C14CCAutocomplete12Autocomplete", "deinit"]
+- ["C14CCAutocomplete12Autocomplete", "init"]
+- ["C14CCAutocomplete12Autocomplete", "setupAutocompleteForViewcontroller"]
+- !private ["P14CCAutocomplete20AutocompleteDelegate", "addChildViewController"]
+- !private ["P14CCAutocomplete20AutocompleteDelegate", "view"]
+- !private ["Ps11CVarArgType", "addSubview"]
+- !private ["Ps11CVarArgType", "delegate"]
+- !private ["Ps11CVarArgType", "didMoveToParentViewController"]
+- !private ["Ps11CVarArgType", "didMoveToSuperview"]
+- !private ["Ps11CVarArgType", "init"]
+- !private ["Ps11CVarArgType", "instantiateViewControllerWithIdentifier"]
+- !private ["Ps11CVarArgType", "view"]
+- !private ["Ps11CVarArgType", "willMoveToParentViewController"]
+- !private ["Ps11CVarArgType", "willMoveToSuperview"]
+- !private ["Ps28CustomDebugStringConvertible", "addSubview"]
+- !private ["Ps28CustomDebugStringConvertible", "delegate"]
+- !private ["Ps28CustomDebugStringConvertible", "didMoveToParentViewController"]
+- !private ["Ps28CustomDebugStringConvertible", "didMoveToSuperview"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "instantiateViewControllerWithIdentifier"]
+- !private ["Ps28CustomDebugStringConvertible", "view"]
+- !private ["Ps28CustomDebugStringConvertible", "willMoveToParentViewController"]
+- !private ["Ps28CustomDebugStringConvertible", "willMoveToSuperview"]
+- !private ["Ps23CustomStringConvertible", "addSubview"]
+- !private ["Ps23CustomStringConvertible", "delegate"]
+- !private ["Ps23CustomStringConvertible", "didMoveToParentViewController"]
+- !private ["Ps23CustomStringConvertible", "didMoveToSuperview"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "instantiateViewControllerWithIdentifier"]
+- !private ["Ps23CustomStringConvertible", "view"]
+- !private ["Ps23CustomStringConvertible", "willMoveToParentViewController"]
+- !private ["Ps23CustomStringConvertible", "willMoveToSuperview"]
+- !private ["Ps9Equatable", "addSubview"]
+- !private ["Ps9Equatable", "delegate"]
+- !private ["Ps9Equatable", "didMoveToParentViewController"]
+- !private ["Ps9Equatable", "didMoveToSuperview"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "instantiateViewControllerWithIdentifier"]
+- !private ["Ps9Equatable", "view"]
+- !private ["Ps9Equatable", "willMoveToParentViewController"]
+- !private ["Ps9Equatable", "willMoveToSuperview"]
+- !private ["Ps8Hashable", "addSubview"]
+- !private ["Ps8Hashable", "delegate"]
+- !private ["Ps8Hashable", "didMoveToParentViewController"]
+- !private ["Ps8Hashable", "didMoveToSuperview"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "instantiateViewControllerWithIdentifier"]
+- !private ["Ps8Hashable", "view"]
+- !private ["Ps8Hashable", "willMoveToParentViewController"]
+- !private ["Ps8Hashable", "willMoveToSuperview"]
+- !private ["CSo8NSBundle", "init"]
+- !private ["PSo8NSCoding", "addSubview"]
+- !private ["PSo8NSCoding", "delegate"]
+- !private ["PSo8NSCoding", "didMoveToParentViewController"]
+- !private ["PSo8NSCoding", "didMoveToSuperview"]
+- !private ["PSo8NSCoding", "view"]
+- !private ["PSo8NSCoding", "willMoveToParentViewController"]
+- !private ["PSo8NSCoding", "willMoveToSuperview"]
+- !private ["PSo26NSExtensionRequestHandling", "delegate"]
+- !private ["PSo26NSExtensionRequestHandling", "didMoveToParentViewController"]
+- !private ["PSo26NSExtensionRequestHandling", "view"]
+- !private ["PSo26NSExtensionRequestHandling", "willMoveToParentViewController"]
+- !private ["CSo8NSObject", "addChildViewController"]
+- !private ["CSo8NSObject", "addSubview"]
+- !private ["CSo8NSObject", "delegate"]
+- !private ["CSo8NSObject", "didMoveToParentViewController"]
+- !private ["CSo8NSObject", "didMoveToSuperview"]
+- !private ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "instantiateViewControllerWithIdentifier"]
+- !private ["CSo8NSObject", "view"]
+- !private ["CSo8NSObject", "willMoveToParentViewController"]
+- !private ["CSo8NSObject", "willMoveToSuperview"]
+- !private ["PSo16NSObjectProtocol", "addSubview"]
+- !private ["PSo16NSObjectProtocol", "delegate"]
+- !private ["PSo16NSObjectProtocol", "didMoveToParentViewController"]
+- !private ["PSo16NSObjectProtocol", "didMoveToSuperview"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "instantiateViewControllerWithIdentifier"]
+- !private ["PSo16NSObjectProtocol", "view"]
+- !private ["PSo16NSObjectProtocol", "willMoveToParentViewController"]
+- !private ["PSo16NSObjectProtocol", "willMoveToSuperview"]
+- !private ["PSo29UIAccessibilityIdentification", "addSubview"]
+- !private ["PSo29UIAccessibilityIdentification", "didMoveToSuperview"]
+- !private ["PSo29UIAccessibilityIdentification", "willMoveToSuperview"]
+- !private ["PSo12UIAppearance", "addSubview"]
+- !private ["PSo12UIAppearance", "didMoveToSuperview"]
+- !private ["PSo12UIAppearance", "willMoveToSuperview"]
+- !private ["PSo21UIAppearanceContainer", "addSubview"]
+- !private ["PSo21UIAppearanceContainer", "delegate"]
+- !private ["PSo21UIAppearanceContainer", "didMoveToParentViewController"]
+- !private ["PSo21UIAppearanceContainer", "didMoveToSuperview"]
+- !private ["PSo21UIAppearanceContainer", "view"]
+- !private ["PSo21UIAppearanceContainer", "willMoveToParentViewController"]
+- !private ["PSo21UIAppearanceContainer", "willMoveToSuperview"]
+- !private ["PSo18UIContentContainer", "delegate"]
+- !private ["PSo18UIContentContainer", "didMoveToParentViewController"]
+- !private ["PSo18UIContentContainer", "view"]
+- !private ["PSo18UIContentContainer", "willMoveToParentViewController"]
+- !private ["PSo17UICoordinateSpace", "addSubview"]
+- !private ["PSo17UICoordinateSpace", "didMoveToSuperview"]
+- !private ["PSo17UICoordinateSpace", "willMoveToSuperview"]
+- !private ["PSo13UIDynamicItem", "addSubview"]
+- !private ["PSo13UIDynamicItem", "didMoveToSuperview"]
+- !private ["PSo13UIDynamicItem", "willMoveToSuperview"]
+- !private ["PSo18UIFocusEnvironment", "addSubview"]
+- !private ["PSo18UIFocusEnvironment", "delegate"]
+- !private ["PSo18UIFocusEnvironment", "didMoveToParentViewController"]
+- !private ["PSo18UIFocusEnvironment", "didMoveToSuperview"]
+- !private ["PSo18UIFocusEnvironment", "view"]
+- !private ["PSo18UIFocusEnvironment", "willMoveToParentViewController"]
+- !private ["PSo18UIFocusEnvironment", "willMoveToSuperview"]
+- !private ["CSo11UIResponder", "addChildViewController"]
+- !private ["CSo11UIResponder", "addSubview"]
+- !private ["CSo11UIResponder", "delegate"]
+- !private ["CSo11UIResponder", "didMoveToParentViewController"]
+- !private ["CSo11UIResponder", "didMoveToSuperview"]
+- !private ["CSo11UIResponder", "view"]
+- !private ["CSo11UIResponder", "willMoveToParentViewController"]
+- !private ["CSo11UIResponder", "willMoveToSuperview"]
+- !private ["PSo20UIScrollViewDelegate", "delegate"]
+- !private ["PSo20UIScrollViewDelegate", "didMoveToParentViewController"]
+- !private ["PSo20UIScrollViewDelegate", "view"]
+- !private ["PSo20UIScrollViewDelegate", "willMoveToParentViewController"]
+- !private ["PSo16UIStateRestoring", "delegate"]
+- !private ["PSo16UIStateRestoring", "didMoveToParentViewController"]
+- !private ["PSo16UIStateRestoring", "view"]
+- !private ["PSo16UIStateRestoring", "willMoveToParentViewController"]
+- !private ["CSo12UIStoryboard", "init"]
+- !private ["CSo12UIStoryboard", "instantiateViewControllerWithIdentifier"]
+- !private ["PSo21UITableViewDataSource", "delegate"]
+- !private ["PSo21UITableViewDataSource", "didMoveToParentViewController"]
+- !private ["PSo21UITableViewDataSource", "view"]
+- !private ["PSo21UITableViewDataSource", "willMoveToParentViewController"]
+- !private ["PSo19UITableViewDelegate", "delegate"]
+- !private ["PSo19UITableViewDelegate", "didMoveToParentViewController"]
+- !private ["PSo19UITableViewDelegate", "view"]
+- !private ["PSo19UITableViewDelegate", "willMoveToParentViewController"]
+- !private ["PSo18UITraitEnvironment", "addSubview"]
+- !private ["PSo18UITraitEnvironment", "delegate"]
+- !private ["PSo18UITraitEnvironment", "didMoveToParentViewController"]
+- !private ["PSo18UITraitEnvironment", "didMoveToSuperview"]
+- !private ["PSo18UITraitEnvironment", "view"]
+- !private ["PSo18UITraitEnvironment", "willMoveToParentViewController"]
+- !private ["PSo18UITraitEnvironment", "willMoveToSuperview"]
+- !private ["CSo6UIView", "addSubview"]
+- !private ["CSo6UIView", "didMoveToSuperview"]
+- !private ["CSo6UIView", "willMoveToSuperview"]
+- !private ["CSo16UIViewController", "addChildViewController"]
+- !private ["CSo16UIViewController", "deinit"]
+- !private ["CSo16UIViewController", "delegate"]
+- !private ["CSo16UIViewController", "didMoveToParentViewController"]
+- !private ["CSo16UIViewController", "view"]
+- !private ["CSo16UIViewController", "willMoveToParentViewController"]
+- !private ["Ps12_Reflectable", "addSubview"]
+- !private ["Ps12_Reflectable", "didMoveToSuperview"]
+- !private ["Ps12_Reflectable", "willMoveToSuperview"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "C14CCAutocomplete26AutoCompleteViewController"
+- "C14CCAutocomplete12Autocomplete"
+- !private "P14CCAutocomplete20AutocompleteDelegate"
+- !private "Ps11CVarArgType"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps23CustomStringConvertible"
+- !private "Ps9Equatable"
+- !private "Ps8Hashable"
+- !private "CSo8NSBundle"
+- !private "PSo8NSCoding"
+- !private "PSo26NSExtensionRequestHandling"
+- !private "CSo8NSObject"
+- !private "PSo16NSObjectProtocol"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- !private "PSo21UIAppearanceContainer"
+- !private "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- !private "PSo18UIFocusEnvironment"
+- !private "CSo11UIResponder"
+- !private "PSo20UIScrollViewDelegate"
+- !private "PSo16UIStateRestoring"
+- !private "CSo12UIStoryboard"
+- !private "PSo21UITableViewDataSource"
+- !private "PSo19UITableViewDelegate"
+- !private "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- !private "CSo16UIViewController"
+- !private "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Users/yuxiangtang1/Downloads/HW9/Pods/Target Support Files/CCAutocomplete/CCAutocomplete-umbrella.h"
+- "/Users/yuxiangtang1/Downloads/HW9/build/Pods.build/Debug-iphoneos/CCAutocomplete.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+interface-hash: "1d2104ba00389de736667b6d067eada5"

@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/yuxiangtang1/Desktop/HW9/build/Debug-iphoneos/CCAutocomplete.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/yuxiangtang1/Desktop/HW9/build/Pods.build/Debug-iphoneos/CCAutocomplete.build/unextended-module.modulemap',
+    }]
+  }]
+}

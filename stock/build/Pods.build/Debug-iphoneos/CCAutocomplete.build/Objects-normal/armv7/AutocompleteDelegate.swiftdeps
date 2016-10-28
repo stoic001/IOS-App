@@ -1,0 +1,127 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AutocompleteDelegate"
+provides-nominal:
+- "P14CCAutocomplete20AutocompleteDelegate"
+provides-member:
+- ["P14CCAutocomplete20AutocompleteDelegate", ""]
+- ["P14CCAutocomplete20AutocompleteDelegate", "nibForAutoCompleteCell"]
+- ["P14CCAutocomplete20AutocompleteDelegate", "heightForCells"]
+- ["P14CCAutocomplete20AutocompleteDelegate", "getCellDataAssigner"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "AutocompleteCellData"
+- "UITextField"
+- !private "NSBundle"
+- "AutocompletableOption"
+- !private "AutoCompleteViewController"
+- "String"
+- !private "AutoCompleteCell"
+- "Int"
+- "UITableViewCell"
+- "AutocompleteDelegate"
+- "CGFloat"
+- "Void"
+- "UINib"
+- !private "StringLiteralType"
+depends-member:
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "textImage"]
+- !private ["C14CCAutocomplete16AutoCompleteCell", "textImage"]
+- !private ["P14CCAutocomplete20AutocompleteDelegate", "AutoCompleteCell"]
+- !private ["P14CCAutocomplete20AutocompleteDelegate", "AutoCompleteViewController"]
+- ["P14CCAutocomplete20AutocompleteDelegate", "AutocompletableOption"]
+- !private ["P14CCAutocomplete20AutocompleteDelegate", "AutocompleteCellData"]
+- ["P14CCAutocomplete20AutocompleteDelegate", "CGFloat"]
+- ["P14CCAutocomplete20AutocompleteDelegate", "Int"]
+- !private ["P14CCAutocomplete20AutocompleteDelegate", "NSBundle"]
+- ["P14CCAutocomplete20AutocompleteDelegate", "String"]
+- ["P14CCAutocomplete20AutocompleteDelegate", "UINib"]
+- ["P14CCAutocomplete20AutocompleteDelegate", "UITableViewCell"]
+- ["P14CCAutocomplete20AutocompleteDelegate", "UITextField"]
+- ["P14CCAutocomplete20AutocompleteDelegate", "Void"]
+- ["P14CCAutocomplete20AutocompleteDelegate", "autoCompleteHeight"]
+- ["P14CCAutocomplete20AutocompleteDelegate", "autoCompleteItemsForSearchTerm"]
+- ["P14CCAutocomplete20AutocompleteDelegate", "autoCompleteTextField"]
+- ["P14CCAutocomplete20AutocompleteDelegate", "autoCompleteThreshold"]
+- ["P14CCAutocomplete20AutocompleteDelegate", "didSelectItem"]
+- ["P14CCAutocomplete20AutocompleteDelegate", "getCellDataAssigner"]
+- ["P14CCAutocomplete20AutocompleteDelegate", "heightForCells"]
+- ["P14CCAutocomplete20AutocompleteDelegate", "nibForAutoCompleteCell"]
+- !private ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["Ps11CVarArgType", "init"]
+- !private ["Ps11CVarArgType", "textImage"]
+- !private ["Ps28CustomDebugStringConvertible", "Some"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "textImage"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "textImage"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "textImage"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "textImage"]
+- !private ["CSo8NSBundle", "init"]
+- !private ["PSo8NSCoding", "textImage"]
+- !private ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "textImage"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "textImage"]
+- !private ["Ps21NilLiteralConvertible", "Some"]
+- !private ["Sq", "Some"]
+- !private ["PSo29UIAccessibilityIdentification", "textImage"]
+- !private ["PSo12UIAppearance", "textImage"]
+- !private ["PSo21UIAppearanceContainer", "textImage"]
+- !private ["PSo17UICoordinateSpace", "textImage"]
+- !private ["PSo13UIDynamicItem", "textImage"]
+- !private ["PSo18UIFocusEnvironment", "textImage"]
+- !private ["PSo27UIGestureRecognizerDelegate", "textImage"]
+- !private ["CSo5UINib", "init"]
+- !private ["CSo11UIResponder", "textImage"]
+- !private ["CSo15UITableViewCell", "deinit"]
+- !private ["CSo15UITableViewCell", "textImage"]
+- !private ["PSo18UITraitEnvironment", "textImage"]
+- !private ["CSo6UIView", "textImage"]
+- !private ["Ps12_Reflectable", "Some"]
+- !private ["Ps12_Reflectable", "textImage"]
+depends-nominal:
+- !private "Ps9AnyObject"
+- !private "C14CCAutocomplete16AutoCompleteCell"
+- "P14CCAutocomplete20AutocompleteDelegate"
+- !private "V12CoreGraphics7CGFloat"
+- !private "Ps11CVarArgType"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps23CustomStringConvertible"
+- !private "Ps9Equatable"
+- !private "Ps8Hashable"
+- !private "CSo8NSBundle"
+- !private "PSo8NSCoding"
+- !private "CSo8NSObject"
+- !private "PSo16NSObjectProtocol"
+- !private "Ps21NilLiteralConvertible"
+- !private "Sq"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- !private "PSo21UIAppearanceContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- !private "PSo18UIFocusEnvironment"
+- !private "PSo27UIGestureRecognizerDelegate"
+- !private "CSo5UINib"
+- !private "CSo11UIResponder"
+- !private "CSo15UITableViewCell"
+- !private "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- !private "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Users/yuxiangtang1/Downloads/HW9/Pods/Target Support Files/CCAutocomplete/CCAutocomplete-umbrella.h"
+- "/Users/yuxiangtang1/Downloads/HW9/build/Pods.build/Debug-iphoneos/CCAutocomplete.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+interface-hash: "9072e9c1706bdc337ac23fae9ca3a585"

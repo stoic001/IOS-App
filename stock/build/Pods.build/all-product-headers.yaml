@@ -1,0 +1,87 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/yuxiangtang1/Desktop/HW9/build/Debug-iphoneos/CCAutocomplete.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CCAutocomplete-Swift.h",
+          'external-contents': "/Users/yuxiangtang1/Desktop/HW9/build/Debug-iphoneos/CCAutocomplete.framework/Headers/CCAutocomplete-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "CCAutocomplete-umbrella.h",
+          'external-contents': "/Users/yuxiangtang1/Desktop/HW9/Pods/Target Support Files/CCAutocomplete/CCAutocomplete-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/yuxiangtang1/Desktop/HW9/build/Debug-iphoneos/CCAutocomplete.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/yuxiangtang1/Desktop/HW9/build/Pods.build/Debug-iphoneos/CCAutocomplete.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/yuxiangtang1/Desktop/HW9/build/Debug-iphoneos/Pods_HW9.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-HW9-umbrella.h",
+          'external-contents': "/Users/yuxiangtang1/Desktop/HW9/Pods/Target Support Files/Pods-HW9/Pods-HW9-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_HW9-Swift.h",
+          'external-contents': "/Users/yuxiangtang1/Desktop/HW9/build/Debug-iphoneos/Pods_HW9.framework/Headers/Pods_HW9-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/yuxiangtang1/Desktop/HW9/build/Debug-iphoneos/Pods_HW9.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/yuxiangtang1/Desktop/HW9/build/Pods.build/Debug-iphoneos/Pods-HW9.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/yuxiangtang1/Desktop/HW9/build/Debug-iphoneos/SwiftyJSON.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-Swift.h",
+          'external-contents': "/Users/yuxiangtang1/Desktop/HW9/build/Debug-iphoneos/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-umbrella.h",
+          'external-contents': "/Users/yuxiangtang1/Desktop/HW9/Pods/Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/yuxiangtang1/Desktop/HW9/build/Debug-iphoneos/SwiftyJSON.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/yuxiangtang1/Desktop/HW9/build/Pods.build/Debug-iphoneos/SwiftyJSON.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

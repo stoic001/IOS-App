@@ -1,0 +1,224 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AutoCompleteCell"
+provides-nominal:
+- "C14CCAutocomplete16AutoCompleteCell"
+provides-member:
+- ["C14CCAutocomplete16AutoCompleteCell", ""]
+provides-dynamic-lookup:
+- "lblTitle"
+- "imgIcon"
+depends-top-level:
+- "UITableViewCell"
+- "UILabel"
+- "UIImageView"
+- "AutocompleteCellData"
+- "AutoCompleteCell"
+depends-member:
+- !private ["Ps9AnyObject", "image"]
+- ["Ps9AnyObject", "imgIcon"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "lblTitle"]
+- !private ["Ps9AnyObject", "text"]
+- ["Ps9AnyObject", "textImage"]
+- ["Ps9AnyObject", ""]
+- ["C14CCAutocomplete16AutoCompleteCell", "AutocompleteCellData"]
+- ["C14CCAutocomplete16AutoCompleteCell", "UIImageView"]
+- ["C14CCAutocomplete16AutoCompleteCell", "UILabel"]
+- ["C14CCAutocomplete16AutoCompleteCell", "deinit"]
+- !private ["C14CCAutocomplete16AutoCompleteCell", "imgIcon"]
+- ["C14CCAutocomplete16AutoCompleteCell", "init"]
+- !private ["C14CCAutocomplete16AutoCompleteCell", "lblTitle"]
+- ["C14CCAutocomplete16AutoCompleteCell", "textImage"]
+- !private ["P14CCAutocomplete21AutocompletableOption", "image"]
+- !private ["P14CCAutocomplete21AutocompletableOption", "text"]
+- !private ["C14CCAutocomplete20AutocompleteCellData", "deinit"]
+- !private ["C14CCAutocomplete20AutocompleteCellData", "image"]
+- !private ["C14CCAutocomplete20AutocompleteCellData", "text"]
+- !private ["Ps11CVarArgType", "image"]
+- ["Ps11CVarArgType", "imgIcon"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "lblTitle"]
+- !private ["Ps11CVarArgType", "text"]
+- ["Ps11CVarArgType", "textImage"]
+- ["Ps11CVarArgType", ""]
+- !private ["Ps28CustomDebugStringConvertible", "image"]
+- ["Ps28CustomDebugStringConvertible", "imgIcon"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "lblTitle"]
+- !private ["Ps28CustomDebugStringConvertible", "text"]
+- ["Ps28CustomDebugStringConvertible", "textImage"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "image"]
+- ["Ps23CustomStringConvertible", "imgIcon"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "lblTitle"]
+- !private ["Ps23CustomStringConvertible", "text"]
+- ["Ps23CustomStringConvertible", "textImage"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "image"]
+- ["Ps9Equatable", "imgIcon"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "lblTitle"]
+- !private ["Ps9Equatable", "text"]
+- ["Ps9Equatable", "textImage"]
+- ["Ps9Equatable", ""]
+- !private ["Ps8Hashable", "image"]
+- ["Ps8Hashable", "imgIcon"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "lblTitle"]
+- !private ["Ps8Hashable", "text"]
+- ["Ps8Hashable", "textImage"]
+- ["Ps8Hashable", ""]
+- !private ["PSo8NSCoding", "image"]
+- ["PSo8NSCoding", "imgIcon"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "lblTitle"]
+- !private ["PSo8NSCoding", "text"]
+- ["PSo8NSCoding", "textImage"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "AutocompleteCellData"]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "UILabel"]
+- !private ["CSo8NSObject", "image"]
+- ["CSo8NSObject", "imgIcon"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "lblTitle"]
+- !private ["CSo8NSObject", "text"]
+- ["CSo8NSObject", "textImage"]
+- !private ["PSo16NSObjectProtocol", "image"]
+- ["PSo16NSObjectProtocol", "imgIcon"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "lblTitle"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- ["PSo16NSObjectProtocol", "textImage"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo29UIAccessibilityIdentification", "image"]
+- ["PSo29UIAccessibilityIdentification", "imgIcon"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", "lblTitle"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- ["PSo29UIAccessibilityIdentification", "textImage"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- !private ["PSo12UIAppearance", "image"]
+- ["PSo12UIAppearance", "imgIcon"]
+- ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", "lblTitle"]
+- !private ["PSo12UIAppearance", "text"]
+- ["PSo12UIAppearance", "textImage"]
+- ["PSo12UIAppearance", ""]
+- !private ["PSo21UIAppearanceContainer", "image"]
+- ["PSo21UIAppearanceContainer", "imgIcon"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "lblTitle"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- ["PSo21UIAppearanceContainer", "textImage"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo17UICoordinateSpace", "image"]
+- ["PSo17UICoordinateSpace", "imgIcon"]
+- ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", "lblTitle"]
+- !private ["PSo17UICoordinateSpace", "text"]
+- ["PSo17UICoordinateSpace", "textImage"]
+- ["PSo17UICoordinateSpace", ""]
+- !private ["PSo13UIDynamicItem", "image"]
+- ["PSo13UIDynamicItem", "imgIcon"]
+- ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", "lblTitle"]
+- !private ["PSo13UIDynamicItem", "text"]
+- ["PSo13UIDynamicItem", "textImage"]
+- ["PSo13UIDynamicItem", ""]
+- !private ["PSo18UIFocusEnvironment", "image"]
+- ["PSo18UIFocusEnvironment", "imgIcon"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "lblTitle"]
+- !private ["PSo18UIFocusEnvironment", "text"]
+- ["PSo18UIFocusEnvironment", "textImage"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["PSo27UIGestureRecognizerDelegate", "imgIcon"]
+- ["PSo27UIGestureRecognizerDelegate", "init"]
+- ["PSo27UIGestureRecognizerDelegate", "lblTitle"]
+- ["PSo27UIGestureRecognizerDelegate", "textImage"]
+- ["PSo27UIGestureRecognizerDelegate", ""]
+- !private ["CSo11UIImageView", "image"]
+- !private ["CSo7UILabel", "text"]
+- ["CSo11UIResponder", "AutocompleteCellData"]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "UILabel"]
+- !private ["CSo11UIResponder", "image"]
+- ["CSo11UIResponder", "imgIcon"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "lblTitle"]
+- !private ["CSo11UIResponder", "text"]
+- ["CSo11UIResponder", "textImage"]
+- ["CSo15UITableViewCell", "AutocompleteCellData"]
+- ["CSo15UITableViewCell", "UIImageView"]
+- ["CSo15UITableViewCell", "UILabel"]
+- ["CSo15UITableViewCell", "imgIcon"]
+- ["CSo15UITableViewCell", "init"]
+- ["CSo15UITableViewCell", "lblTitle"]
+- ["CSo15UITableViewCell", "textImage"]
+- ["CSo15UITableViewCell", ""]
+- !private ["PSo18UITraitEnvironment", "image"]
+- ["PSo18UITraitEnvironment", "imgIcon"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "lblTitle"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- ["PSo18UITraitEnvironment", "textImage"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "AutocompleteCellData"]
+- ["CSo6UIView", "UIImageView"]
+- ["CSo6UIView", "UILabel"]
+- !private ["CSo6UIView", "image"]
+- ["CSo6UIView", "imgIcon"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "lblTitle"]
+- !private ["CSo6UIView", "text"]
+- ["CSo6UIView", "textImage"]
+- !private ["Ps12_Reflectable", "image"]
+- ["Ps12_Reflectable", "imgIcon"]
+- ["Ps12_Reflectable", "init"]
+- ["Ps12_Reflectable", "lblTitle"]
+- !private ["Ps12_Reflectable", "text"]
+- ["Ps12_Reflectable", "textImage"]
+- ["Ps12_Reflectable", ""]
+depends-nominal:
+- "Ps9AnyObject"
+- "C14CCAutocomplete16AutoCompleteCell"
+- !private "P14CCAutocomplete21AutocompletableOption"
+- !private "C14CCAutocomplete20AutocompleteCellData"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo27UIGestureRecognizerDelegate"
+- !private "CSo11UIImageView"
+- !private "CSo7UILabel"
+- "CSo11UIResponder"
+- "CSo15UITableViewCell"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/yuxiangtang1/Desktop/HW9/Pods/Target Support Files/CCAutocomplete/CCAutocomplete-umbrella.h"
+- "/Users/yuxiangtang1/Desktop/HW9/build/Pods.build/Debug-iphoneos/CCAutocomplete.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+interface-hash: "440ab78f1412a737b15f3383d5fc7b08"

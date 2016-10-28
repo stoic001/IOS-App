@@ -1,0 +1,1 @@
+ const unsigned char CCAutocompleteVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:CCAutocomplete  PROJECT:Pods-1" "\n"; const double CCAutocompleteVersionNumber __attribute__ ((used)) = (double)1.;

@@ -1,0 +1,14 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "e54206cce4ab2ddc88c98fbe4b1d905d"
+build_time: [514397167, 130548000]
+inputs:
+  "/Users/yuxiangtang1/Downloads/HW9/HW9/Main.swift": [514350777, 0]
+  "/Users/yuxiangtang1/Downloads/HW9/HW9/AppDelegate.swift": [514341383, 0]
+  "/Users/yuxiangtang1/Downloads/HW9/HW9/CustomCell.swift": [514186181, 0]
+  "/Users/yuxiangtang1/Downloads/HW9/HW9/LikeTableCell.swift": [514338259, 0]
+  "/Users/yuxiangtang1/Downloads/HW9/HW9/MyNavController.swift": [514186181, 0]
+  "/Users/yuxiangtang1/Downloads/HW9/HW9/NewsTableCell.swift": [514186182, 0]
+  "/Users/yuxiangtang1/Downloads/HW9/HW9/Current.swift": [514350918, 0]
+  "/Users/yuxiangtang1/Downloads/HW9/HW9/SavedData.swift": [514338400, 0]
+  "/Users/yuxiangtang1/Downloads/HW9/HW9/SharedData.swift": [514186182, 0]
+  "/Users/yuxiangtang1/Downloads/HW9/HW9/MyTableViewCell.swift": [514186182, 0]

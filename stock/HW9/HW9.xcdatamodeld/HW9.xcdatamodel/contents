@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10171" systemVersion="15E65" minimumToolsVersion="Automatic">
+    <entity name="Entity" syncable="YES"/>
+    <entity name="Entity1" syncable="YES"/>
+    <entity name="SavedData" representedClassName="SavedData" syncable="YES">
+        <attribute name="cap" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="change" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="changeSign" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="price" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="stockName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="stockUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="symbol" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Entity" positionX="-63" positionY="27" width="128" height="45"/>
+        <element name="Entity1" positionX="-54" positionY="36" width="128" height="45"/>
+        <element name="SavedData" positionX="-63" positionY="-18" width="128" height="150"/>
+    </elements>
+</model>

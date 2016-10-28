@@ -1,0 +1,175 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CustomCell"
+provides-nominal:
+- "C3HW910CustomCell"
+provides-member:
+- ["C3HW910CustomCell", ""]
+provides-dynamic-lookup:
+- "lblCountry"
+- "country"
+depends-top-level:
+- "UILabel"
+- "UITableViewCell"
+- "String"
+- "CustomCell"
+depends-member:
+- ["Ps9AnyObject", "country"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "lblCountry"]
+- !private ["Ps9AnyObject", "text"]
+- ["Ps9AnyObject", ""]
+- ["Ps11CVarArgType", "country"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "lblCountry"]
+- !private ["Ps11CVarArgType", "text"]
+- ["Ps11CVarArgType", ""]
+- ["C3HW910CustomCell", "String"]
+- ["C3HW910CustomCell", "UILabel"]
+- ["C3HW910CustomCell", "country"]
+- ["C3HW910CustomCell", "deinit"]
+- ["C3HW910CustomCell", "init"]
+- !private ["C3HW910CustomCell", "lblCountry"]
+- ["Ps28CustomDebugStringConvertible", "country"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "lblCountry"]
+- !private ["Ps28CustomDebugStringConvertible", "text"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "country"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "lblCountry"]
+- !private ["Ps23CustomStringConvertible", "text"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "country"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "lblCountry"]
+- !private ["Ps9Equatable", "text"]
+- ["Ps9Equatable", ""]
+- ["Ps8Hashable", "country"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "lblCountry"]
+- !private ["Ps8Hashable", "text"]
+- ["Ps8Hashable", ""]
+- ["PSo8NSCoding", "country"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "lblCountry"]
+- !private ["PSo8NSCoding", "text"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "country"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "lblCountry"]
+- !private ["CSo8NSObject", "text"]
+- ["PSo16NSObjectProtocol", "country"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "lblCountry"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- ["PSo16NSObjectProtocol", ""]
+- ["PSo29UIAccessibilityIdentification", "country"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", "lblCountry"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- ["PSo12UIAppearance", "country"]
+- ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", "lblCountry"]
+- !private ["PSo12UIAppearance", "text"]
+- ["PSo12UIAppearance", ""]
+- ["PSo21UIAppearanceContainer", "country"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "lblCountry"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo17UICoordinateSpace", "country"]
+- ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", "lblCountry"]
+- !private ["PSo17UICoordinateSpace", "text"]
+- ["PSo17UICoordinateSpace", ""]
+- ["PSo13UIDynamicItem", "country"]
+- ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", "lblCountry"]
+- !private ["PSo13UIDynamicItem", "text"]
+- ["PSo13UIDynamicItem", ""]
+- ["PSo18UIFocusEnvironment", "country"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "lblCountry"]
+- !private ["PSo18UIFocusEnvironment", "text"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["PSo27UIGestureRecognizerDelegate", "country"]
+- ["PSo27UIGestureRecognizerDelegate", "init"]
+- ["PSo27UIGestureRecognizerDelegate", "lblCountry"]
+- ["PSo27UIGestureRecognizerDelegate", ""]
+- !private ["CSo7UILabel", "text"]
+- ["CSo11UIResponder", "String"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "country"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "lblCountry"]
+- !private ["CSo11UIResponder", "text"]
+- ["CSo15UITableViewCell", "String"]
+- ["CSo15UITableViewCell", "UILabel"]
+- ["CSo15UITableViewCell", "country"]
+- ["CSo15UITableViewCell", "init"]
+- ["CSo15UITableViewCell", "lblCountry"]
+- ["CSo15UITableViewCell", ""]
+- ["PSo18UITraitEnvironment", "country"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "lblCountry"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "String"]
+- ["CSo6UIView", "UILabel"]
+- ["CSo6UIView", "country"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "lblCountry"]
+- !private ["CSo6UIView", "text"]
+- ["Ps12_Reflectable", "country"]
+- ["Ps12_Reflectable", "init"]
+- ["Ps12_Reflectable", "lblCountry"]
+- !private ["Ps12_Reflectable", "text"]
+- ["Ps12_Reflectable", ""]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps11CVarArgType"
+- "C3HW910CustomCell"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo27UIGestureRecognizerDelegate"
+- !private "CSo7UILabel"
+- "CSo11UIResponder"
+- "CSo15UITableViewCell"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Users/yuxiangtang1/Downloads/HW9/build/Debug-iphoneos/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm.swiftmodule"
+- "/Users/yuxiangtang1/Downloads/HW9/build/Debug-iphoneos/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/yuxiangtang1/Downloads/HW9/build/Debug-iphoneos/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/yuxiangtang1/Downloads/HW9/build/Debug-iphoneos/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/yuxiangtang1/Downloads/HW9/build/Debug-iphoneos/CCAutocomplete.framework/Modules/CCAutocomplete.swiftmodule/arm.swiftmodule"
+- "/Users/yuxiangtang1/Downloads/HW9/build/Debug-iphoneos/CCAutocomplete.framework/Headers/CCAutocomplete-Swift.h"
+- "/Users/yuxiangtang1/Downloads/HW9/build/Debug-iphoneos/CCAutocomplete.framework/Headers/CCAutocomplete-umbrella.h"
+- "/Users/yuxiangtang1/Downloads/HW9/build/Debug-iphoneos/CCAutocomplete.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreData.swiftmodule"
+interface-hash: "739aef94095419c1ae65c7cfa95245d3"

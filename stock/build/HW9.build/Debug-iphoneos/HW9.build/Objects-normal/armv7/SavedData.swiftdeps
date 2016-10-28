@@ -1,0 +1,132 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SavedData"
+provides-nominal:
+- "C3HW99SavedData"
+provides-member:
+- ["C3HW99SavedData", ""]
+provides-dynamic-lookup:
+- "stockName"
+- "cap"
+- "change"
+- "price"
+- "stockUrl"
+- "symbol"
+depends-top-level:
+- "String"
+- "SavedData"
+- "NSManagedObject"
+depends-member:
+- ["Ps9AnyObject", "cap"]
+- ["Ps9AnyObject", "change"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "price"]
+- ["Ps9AnyObject", "stockName"]
+- ["Ps9AnyObject", "stockUrl"]
+- ["Ps9AnyObject", "symbol"]
+- ["Ps9AnyObject", ""]
+- ["Ps11CVarArgType", "cap"]
+- ["Ps11CVarArgType", "change"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "price"]
+- ["Ps11CVarArgType", "stockName"]
+- ["Ps11CVarArgType", "stockUrl"]
+- ["Ps11CVarArgType", "symbol"]
+- ["Ps11CVarArgType", ""]
+- ["Ps28CustomDebugStringConvertible", "cap"]
+- ["Ps28CustomDebugStringConvertible", "change"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "price"]
+- ["Ps28CustomDebugStringConvertible", "stockName"]
+- ["Ps28CustomDebugStringConvertible", "stockUrl"]
+- ["Ps28CustomDebugStringConvertible", "symbol"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "cap"]
+- ["Ps23CustomStringConvertible", "change"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "price"]
+- ["Ps23CustomStringConvertible", "stockName"]
+- ["Ps23CustomStringConvertible", "stockUrl"]
+- ["Ps23CustomStringConvertible", "symbol"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "cap"]
+- ["Ps9Equatable", "change"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "price"]
+- ["Ps9Equatable", "stockName"]
+- ["Ps9Equatable", "stockUrl"]
+- ["Ps9Equatable", "symbol"]
+- ["Ps9Equatable", ""]
+- ["Ps8Hashable", "cap"]
+- ["Ps8Hashable", "change"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "price"]
+- ["Ps8Hashable", "stockName"]
+- ["Ps8Hashable", "stockUrl"]
+- ["Ps8Hashable", "symbol"]
+- ["Ps8Hashable", ""]
+- ["CSo15NSManagedObject", "String"]
+- ["CSo15NSManagedObject", "cap"]
+- ["CSo15NSManagedObject", "change"]
+- ["CSo15NSManagedObject", "init"]
+- ["CSo15NSManagedObject", "price"]
+- ["CSo15NSManagedObject", "stockName"]
+- ["CSo15NSManagedObject", "stockUrl"]
+- ["CSo15NSManagedObject", "symbol"]
+- ["CSo15NSManagedObject", ""]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "cap"]
+- ["CSo8NSObject", "change"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "price"]
+- ["CSo8NSObject", "stockName"]
+- ["CSo8NSObject", "stockUrl"]
+- ["CSo8NSObject", "symbol"]
+- ["PSo16NSObjectProtocol", "cap"]
+- ["PSo16NSObjectProtocol", "change"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "price"]
+- ["PSo16NSObjectProtocol", "stockName"]
+- ["PSo16NSObjectProtocol", "stockUrl"]
+- ["PSo16NSObjectProtocol", "symbol"]
+- ["PSo16NSObjectProtocol", ""]
+- ["C3HW99SavedData", "String"]
+- ["C3HW99SavedData", "cap"]
+- ["C3HW99SavedData", "change"]
+- ["C3HW99SavedData", "deinit"]
+- ["C3HW99SavedData", "init"]
+- ["C3HW99SavedData", "price"]
+- ["C3HW99SavedData", "stockName"]
+- ["C3HW99SavedData", "stockUrl"]
+- ["C3HW99SavedData", "symbol"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "CSo15NSManagedObject"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "C3HW99SavedData"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Users/yuxiangtang1/Downloads/HW9/build/Debug-iphoneos/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/arm.swiftmodule"
+- "/Users/yuxiangtang1/Downloads/HW9/build/Debug-iphoneos/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/yuxiangtang1/Downloads/HW9/build/Debug-iphoneos/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/yuxiangtang1/Downloads/HW9/build/Debug-iphoneos/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/yuxiangtang1/Downloads/HW9/build/Debug-iphoneos/CCAutocomplete.framework/Modules/CCAutocomplete.swiftmodule/arm.swiftmodule"
+- "/Users/yuxiangtang1/Downloads/HW9/build/Debug-iphoneos/CCAutocomplete.framework/Headers/CCAutocomplete-Swift.h"
+- "/Users/yuxiangtang1/Downloads/HW9/build/Debug-iphoneos/CCAutocomplete.framework/Headers/CCAutocomplete-umbrella.h"
+- "/Users/yuxiangtang1/Downloads/HW9/build/Debug-iphoneos/CCAutocomplete.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreData.swiftmodule"
+interface-hash: "37d70b538e720c37bf89b6070f25d530"
